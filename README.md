@@ -39,8 +39,8 @@ Install Libraries:
 <img width="804" alt="截圖 2023-12-04 下午7 19 48" src="https://github.com/YenChenHsu/Power_Real_Time_Chat_Toxicity/assets/57134574/64fca9e8-99b5-4d73-8108-b13bcfd0e51f">
 
 # Link
-- Video: https://youtu.be/62H7PHu7ZNg
-- Dota 2 data set: https://drive.google.com/drive/folders/1opGHCa9Tsg-AS4QE6vyS9i_2dj8KkGV2?usp=sharing
+- Video [https://youtu.be/62H7PHu7ZNg]
+- Dota 2 data set [https://drive.google.com/drive/folders/1opGHCa9Tsg-AS4QE6vyS9i_2dj8KkGV2?usp=sharing]
 
 # Contributors
 Mike Jiang, Shivani Vats, Thomas Farrell, Priyanka Prashanth Kumar, Yen Chen Hsu
