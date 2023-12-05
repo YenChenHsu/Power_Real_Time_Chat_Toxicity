@@ -20,7 +20,7 @@ This dataset is originated from Kaggle contest - Dota 2 Matches, containing 5000
 Source: https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches
 
 # Environment Configuration
-To run this notebook, make sure the cluster supports Spark NLP. We are using below config version in the cluster 
+To run the demo notebook, make sure the cluster supports Spark NLP. We are using below config version in the cluster 
 
 Databrick Runtime Version: 14.2 ML (includes Apache Spark 3.5.0, Scala 2.12)
 
